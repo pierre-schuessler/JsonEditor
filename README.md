@@ -9,14 +9,14 @@ Do not use it to edit important data. It may have unexpected behavior.
 
 ## Usage
 
-Download the files and open the _JsonEditor.html_ file in your favourite web browser.
+Download the files and open the _index.html_ file in your favourite web browser.
 
 Make sure it can access the other files (js and css). For this, you may want to start a http or https server.
 Here is an example for python (run this command in the directory in which you saved the programm files):
 ```bash
 py -m http.server
 ```
-Then open 
+Then open :
 ```
-http://localhost:8000/JsonEditor.json
+http://localhost:8000/
 ```
